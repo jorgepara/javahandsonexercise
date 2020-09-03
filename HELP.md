@@ -1,9 +1,12 @@
 # Getting Started
 
-### Reference Documentation
-For further reference, please consider the following sections:
+Repositorio Git: https://github.com/rtordable/hands-on.git  Rama: master
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/maven-plugin/reference/html/#build-image)
+Para bajarse el proyecto necesitaréis Git y un cliente.  Recomendamos **GitHub Desktop**.
 
+Podéis usar cualquier IDE`adffasd`, pero en IntelliJ va.
+EN IntelliJ podéis importarlo haciendo A-> B-> C
+Necesitaréis tener instalado Gradle + X + Z
+Para clonarlo, necesitaréis Git y un cliente, el que prefieráis. Recomendamos GitHub Desktop.
+Teneís que tener instalado Java 8-11
+Etc.
