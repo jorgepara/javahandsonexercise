@@ -4,7 +4,7 @@ El proyecto **hands-on** de **Spring Boot** se encuentra en un repositorio públ
 
     URL Repositorio Git: https://github.com/rtordable/hands-on.git  Rama: master
 
-Para clonarse / bajarse el proyecto necesitaréis un cliente Git.  Recomendamos **GitHub Desktop**.
+Para clonarse / bajarse el proyecto necesitaréis un cliente GUI de Git.  Recomendamos **GitHub Desktop**.
 
     Desde GitHub Desktop seleccionamos el menú: 'File -> Clone Repository'
     
@@ -14,7 +14,7 @@ Para clonarse / bajarse el proyecto necesitaréis un cliente Git.  Recomendamos 
 Se puede utilizar cualquier IDE, nosotros hemos utilizado **IntelliJ**.
 
 Para abrir el proyecto en **IntelliJ** hay que seleccionar el menú 'File -> Open' y seleccionamos la carpeta local
-donde bajamos previamente el proyecto.
+donde hemos bajamos previamente el proyecto.
 
 Para compilar y ejecutar el proyecto es necesario tener instalado **Gradle**. IntelliJ ya lo lleva integrado.
 
