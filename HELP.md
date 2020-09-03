@@ -6,7 +6,7 @@ El proyecto **hands-on** de **Spring Boot** se encuentra en un repositorio públ
 
 Para clonarse / bajarse el proyecto necesitaréis un cliente Git.  Recomendamos **GitHub Desktop**.
 
-    Desde GitHub Desktop seleccionamos el menú: File -> Clone Repository ...
+    Desde GitHub Desktop seleccionamos el menú: 'File -> Clone Repository'
     
     En la pestaña URL, en el campo "Repository URL" introducís la URL del repositorio
     y en "Local path" la carpeta local donde se bajará el proyecto. 
