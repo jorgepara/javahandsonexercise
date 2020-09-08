@@ -2,7 +2,7 @@
 
 El proyecto **hands-on** de **Spring Boot** se encuentra en un repositorio público de Git
 
-    URL Repositorio Git: https://github.com/rtordable/hands-on.git  Rama: master
+    URL Repositorio Git: https://github.com/jorgepara/javahandsonexercise.git  Rama: master
 
 Para clonarse / bajarse el proyecto necesitaréis un cliente GUI de Git.  Recomendamos **GitHub Desktop**.
 
