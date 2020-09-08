@@ -14,7 +14,7 @@ Para clonarse / bajarse el proyecto necesitaréis un cliente GUI de Git.  Recome
 Se puede utilizar cualquier IDE, nosotros hemos utilizado **IntelliJ**.
 
 Para abrir el proyecto en **IntelliJ** hay que seleccionar el menú 'File -> Open' y seleccionamos la carpeta local
-donde hemos bajamos previamente el proyecto.
+donde hemos bajamdo previamente el proyecto.
 
 Para compilar y ejecutar el proyecto es necesario tener instalado **Gradle**. IntelliJ ya lo lleva integrado.
 
