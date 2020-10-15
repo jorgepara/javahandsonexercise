@@ -1,6 +1,6 @@
 # hands-on incompleted exercise
 
-First you have to download de hands-on Gradle project and start the **Spring Boot Application** with the web server listening at localhost:8080.
+First you have to download the hands-on Gradle project and start the **Spring Boot Application** with the web server listening at localhost:8080.
 
 Second exercise you must complete the REST **HandsOnController** class.  
 Read the TODO comments and follow the instructions.
