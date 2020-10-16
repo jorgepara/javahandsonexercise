@@ -78,7 +78,7 @@ public class GitHubController {
 
 		TODO: Add REST method annotation to support path "/users/:login/search" and get the path variable :login into the String login var.
 	*/
-	public ResponseEntity<UserDto> findUserByLoginUser(String login) {
+	public ResponseEntity<UserDto> searchUserByLogin(String login) {
 
 		// 	TODO: You should use one GitHubService method.
 		return null;
